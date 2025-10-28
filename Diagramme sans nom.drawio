@@ -147,7 +147,10 @@
           <mxGeometry x="1050" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rVpzt-tkcxXTqWZn1HGp-51" value="Memory indicator" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="460" y="50" width="60" height="30" as="geometry" />
+          <mxGeometry x="480" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d4PJmrlBMaJnPWiaptQW-1" value="v1.2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
