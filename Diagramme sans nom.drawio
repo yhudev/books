@@ -883,7 +883,7 @@
         <mxCell id="wILYnDoT7rvfN2gSNGYL-27" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;wanted hedge&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="990" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="wILYnDoT7rvfN2gSNGYL-29" edge="1" parent="1" source="mp44aqhuaindI7c5x0k5-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.193;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#FF0000;strokeWidth=2;exitX=0.24;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;" target="wILYnDoT7rvfN2gSNGYL-27">
+        <mxCell id="wILYnDoT7rvfN2gSNGYL-29" edge="1" parent="1" source="mp44aqhuaindI7c5x0k5-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF0000;strokeWidth=2;exitX=0.24;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="850" y="-75" />
@@ -891,7 +891,7 @@
               <mxPoint x="1013" y="90" />
             </Array>
             <mxPoint x="850" y="-70" as="sourcePoint" />
-            <mxPoint x="1023" y="200" as="targetPoint" />
+            <mxPoint x="1013" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wILYnDoT7rvfN2gSNGYL-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#990000;fontSize=20;" value="&lt;span style=&quot;background-color: rgb(255, 255, 0);&quot;&gt;&lt;b&gt;&lt;font&gt;(-)&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" vertex="1">
